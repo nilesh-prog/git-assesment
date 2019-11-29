@@ -9,6 +9,7 @@ function printJumboTronLine()
 {
     return `Speak of the devil, and Devil is here !`;
 }
+
 /**
  * A Heading  function
  * @returns {string}
@@ -23,4 +24,8 @@ function addJumboTron()
 }
 function test(){
     return `this is test function`;
+}
+function addJumboTron()
+{
+    return `Don't put all your eggs in one basket. Don't count your chickens before the eggs have hatched`;
 }
