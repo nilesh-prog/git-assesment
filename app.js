@@ -21,3 +21,6 @@ function addJumboTron()
 {
     return `Don't put all your eggs in one basket. Don't count your chickens before the eggs have hatched`;
 }
+function test(){
+    return `this is test function`;
+}
